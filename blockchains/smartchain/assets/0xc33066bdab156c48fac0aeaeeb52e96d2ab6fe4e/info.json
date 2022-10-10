@@ -1,0 +1,11 @@
+{
+    "name": "Neodex Token",
+    "website": "https://www.neodex.io",
+    "description": "Autonomous Web 3.0 ecosystem",
+    "explorer": "https://bscscan.com/token/0xc33066bdab156c48fac0aeaeeb52e96d2ab6fe4e",
+    "type": "BEP20",
+    "symbol": "NDEX",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xc33066bdab156c48fac0aeaeeb52e96d2ab6fe4e"
+}
